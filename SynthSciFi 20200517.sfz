@@ -1,0 +1,115 @@
+//+ Name: Synth Sci-Fi
+//+ Date: 2020-05-17
+//+ URL: http://freepats.zenvoid.org/Synthesizer/synth-effects.html#SciFi
+
+<global>
+ //+ Instrument: Synth Sci-Fi
+ ampeg_release=3
+ loop_mode=loop_continuous
+
+<group>
+<region>
+ lokey=31 hikey=37
+ pitch_keycenter=36
+ loop_start=180000 loop_end=299999
+ sample=samples/C2.flac
+<region>
+ lokey=38 hikey=40
+ pitch_keycenter=39
+ loop_start=180000 loop_end=299999
+ sample=samples/D#2.flac
+<region>
+ lokey=41 hikey=43
+ pitch_keycenter=42
+ loop_start=180000 loop_end=299999
+ sample=samples/F#2.flac
+<region>
+ lokey=44 hikey=46
+ pitch_keycenter=45
+ loop_start=180000 loop_end=299999
+ sample=samples/A2.flac
+<region>
+ lokey=47 hikey=49
+ pitch_keycenter=48
+ loop_start=180000 loop_end=299999
+ sample=samples/C3.flac
+<region>
+ lokey=50 hikey=52
+ pitch_keycenter=51
+ loop_start=180000 loop_end=299999
+ sample=samples/D#3.flac
+<region>
+ lokey=53 hikey=55
+ pitch_keycenter=54
+ loop_start=180000 loop_end=299999
+ sample=samples/F#3.flac
+<region>
+ lokey=56 hikey=58
+ pitch_keycenter=57
+ loop_start=180000 loop_end=299999
+ sample=samples/A3.flac
+<region>
+ lokey=59 hikey=61
+ pitch_keycenter=60
+ loop_start=180000 loop_end=299999
+ sample=samples/C4.flac
+<region>
+ lokey=62 hikey=64
+ pitch_keycenter=63
+ loop_start=180000 loop_end=299999
+ sample=samples/D#4.flac
+<region>
+ lokey=65 hikey=67
+ pitch_keycenter=66
+ loop_start=180000 loop_end=299999
+ sample=samples/F#4.flac
+<region>
+ lokey=68 hikey=70
+ pitch_keycenter=69
+ loop_start=180000 loop_end=299999
+ sample=samples/A4.flac
+<region>
+ lokey=71 hikey=73
+ pitch_keycenter=72
+ loop_start=180000 loop_end=299999
+ sample=samples/C5.flac
+<region>
+ lokey=74 hikey=76
+ pitch_keycenter=75
+ loop_start=180000 loop_end=299999
+ sample=samples/D#5.flac
+<region>
+ lokey=77 hikey=79
+ pitch_keycenter=78
+ loop_start=180000 loop_end=299999
+ sample=samples/F#5.flac
+<region>
+ lokey=80 hikey=82
+ pitch_keycenter=81
+ loop_start=180000 loop_end=299999
+ sample=samples/A5.flac
+<region>
+ lokey=83 hikey=85
+ pitch_keycenter=84
+ loop_start=180000 loop_end=299999
+ sample=samples/C6.flac
+<region>
+ lokey=86 hikey=88
+ pitch_keycenter=87
+ loop_start=180000 loop_end=299999
+ sample=samples/D#6.flac
+<region>
+ lokey=89 hikey=91
+ pitch_keycenter=90
+ loop_start=180000 loop_end=299999
+ sample=samples/F#6.flac
+<region>
+ lokey=92 hikey=94
+ pitch_keycenter=93
+ loop_start=180000 loop_end=299999
+ sample=samples/A6.flac
+<region>
+ lokey=95 hikey=101
+ pitch_keycenter=96
+ loop_start=180000 loop_end=299999
+ sample=samples/C7.flac
